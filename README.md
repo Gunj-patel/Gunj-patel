@@ -18,7 +18,7 @@ Feel free to browse through my projects and repositories!
 
 ## 📫 How to reach me...
 - Email: gunjcpatel@gmail.com
-- LinkedIn: linkedin.com/in/gunj-patel-a2b925251
+- LinkedIn:https://linkedin.com/in/gunj-patel-a2b925251
 
 ## 😄 Pronouns: She/Her
 
