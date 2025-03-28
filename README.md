@@ -5,7 +5,7 @@ Feel free to browse through my projects and repositories!
 
 ## 👀 I’m interested in...
 - Web development (React, Angular, HTML/CSS)
-- Machine learning and AI
+- Pyrhon , java
  
 ## 🌱 I’m currently learning...
 - Advanced JavaScript & TypeScript
@@ -23,8 +23,8 @@ Feel free to browse through my projects and repositories!
 ## 😄 Pronouns: She/Her
 
 ## ⚡ Fun fact:
-- I once wrote a program that plays the game of hangman!
-- I can solve a Rubik's Cube in under 2 minutes! 🎉
+- I am capable of working on coding throughout the entire night.
+- I love to exlore gaming world.
 
 
 <!---
