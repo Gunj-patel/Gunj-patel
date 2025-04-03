@@ -23,7 +23,6 @@ Feel free to browse through my projects and repositories!
 ## 😄 Pronouns: She/Her
 
 ## ⚡ Fun fact:
-- I am capable of working on coding throughout the entire night.
 - I love to exlore gaming world.
 - I have a knack for solving problems efficiently and creatively.
 
